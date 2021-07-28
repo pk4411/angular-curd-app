@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "fname": "tes",
+      "lname": "te",
+      "phone": "9015401683",
+      "email": "pradeep.pk4411@gmail.com",
+      "organisation": "test",
+      "id": 1
+    },
+    {
+      "fname": "tes",
+      "lname": "tesss",
+      "phone": "8787877787878",
+      "email": "soma.ki.sanskriti@gmail.in",
+      "organisation": "testsfdssfsdf",
+      "id": 2
+    }
+  ]
+}
